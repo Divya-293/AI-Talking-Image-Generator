@@ -164,4 +164,4 @@ This tool can make a real person's photo appear to say anything. Only use photos
 - [Wav2Lip](https://github.com/Rudrabha/Wav2Lip), by Prajwal et al., *"A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild"* (ACM Multimedia 2020). Its pretrained models are for **research and personal use only**; check its terms before any commercial use.
 - [gTTS](https://github.com/pndurette/gTTS), [Streamlit](https://streamlit.io), [FFmpeg](https://ffmpeg.org), [OpenCV](https://opencv.org)
 
-The code in this repository is released under the MIT licence (add a `LICENSE` file). This does not extend to Wav2Lip or its weights.
+The code in this repository is released under the [MIT licence](https://github.com/Divya-293/wave2lip/blob/main/LICENSE). This does not extend to Wav2Lip or its weights.
