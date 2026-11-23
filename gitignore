@@ -1,0 +1,19 @@
+# environments
+venv310/
+venv*/
+.env
+
+# python / OS / editor
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+
+# generated at runtime
+input/
+output/
+
+# model weights and the cloned Wav2Lip repo (see README for setup)
+*.pth
+*.pt
+Wav2Lip/

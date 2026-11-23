@@ -1,0 +1,15 @@
+# --- app ---
+streamlit
+gTTS
+Pillow
+
+# --- Wav2Lip runtime (versions matter, see README) ---
+numpy<2
+opencv-python
+librosa==0.9.2
+scipy
+tqdm
+numba
+torch
+torchvision
+setuptools<70      # librosa 0.9.2 needs pkg_resources
